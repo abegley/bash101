@@ -12,3 +12,7 @@ do
     echo "The next state is $test"
 done
 
+echo "The last state we visted was $test"
+test=Connecticut
+echo "Wait, now we're visting $test"
+
